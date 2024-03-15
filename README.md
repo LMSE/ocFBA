@@ -15,7 +15,7 @@ Question? alexandre.tremblay@mail.utoronto.ca
 
 ## Reproduce the results
 ### Dependencies
-1. Annaconda ([here](https://www.anaconda.com/)) to set-up the conda environement
+1. Anaconda ([here](https://www.anaconda.com/)) to set-up the conda environement
 2. IBM CPLEX solver version >= 12.10
 ### Steps
 1. Clone repository
