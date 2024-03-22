@@ -1,5 +1,5 @@
 # Understanding systems level metabolic adaptation resulting from osmotic stress
-In this repository, you will every code and ressources used to reproduced the data presented in our paper.\
+In this repository, you will find every code and ressources used to reproduced the data presented in our paper.\
 To proceed, copy the repository and install the conda environment.yml file.\
 To reproduce the figure, simply select the python file in MDF_Osmolarity repository with the name of the figure you want to recreate. These will perform the analysis used to generate the simulated data.\
 The rest of the files founds on the main repository contain all of the required functions.
